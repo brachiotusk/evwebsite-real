@@ -1,4 +1,4 @@
-# hi its michael here i'll write documentation later
+# im too broke to buy vercel pro so im just going to fork all development from the team repo to this one
 
 
 # Our Team
