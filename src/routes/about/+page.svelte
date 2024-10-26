@@ -35,7 +35,8 @@
 
     <h1 class="text-3xl font-semibold mt-4">Upcoming Events</h1>
     <ExpandingHr --width=10em/>
-    Escape Velocity currently does not have any scheduled events. Check back soon for the 2024-2025 Into the Deep schedule!
+    <li> Catch us at <span class="text-evorange">League Meet 1 | Lamarr on Nov 2nd</span></li>
+
 
     <h1 class="text-3xl font-semibold mt-4">Past Results</h1>
     <ExpandingHr --width=10em/>
