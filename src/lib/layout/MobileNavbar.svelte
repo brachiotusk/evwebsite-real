@@ -19,8 +19,7 @@
         </button>
         <LinkChip href="{base}/">Home</LinkChip>
         <LinkChip href="{base}/about">About Us</LinkChip>
-        <LinkChip href="{base}/centerstage">CENTERSTAGE</LinkChip>
-        <LinkChip href="{base}/POWERPLAY">POWERPLAY</LinkChip>
+        <LinkChip href="{base}/intothedeep">Into The Deep</LinkChip>
         <LinkChip href="{base}/sponsors">Sponsors</LinkChip>
         <LinkChip href="{base}/contact">Contact Us</LinkChip>
     </div>
