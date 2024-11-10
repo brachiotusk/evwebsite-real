@@ -24,12 +24,12 @@
         { name: "Seasons", menus: ["main"], func: () => currentMenu = "seasons"},
         { name: "Sponsors", menus: ["main"], href: "/sponsors" },
         { name: "Contact Us", menus: ["main"], href: "/contact" },
+        { name: "Outreach", menus: ["main"], href: "/outreach" },
         { name: `<span aria-label="Back">\<\<</span>`, menus: ["seasons"], func: () => currentMenu = "main"},
         { name: "Into the Deep", menus: ["seasons"], href: "/intothedeep"},
         { name: "CENTERSTAGE", menus: ["seasons"], href: "/centerstage"},
         { name: "Power Play", menus: ["seasons"], href: "/powerplay"},
         { name: "Freight Frenzy", menus: ["seasons"], href: "/freightfrenzy"}
-        { name: "Outreach", menus: ["main"], href: "/outreach" },
     ];
 
     let thingWidth = 1.5;
