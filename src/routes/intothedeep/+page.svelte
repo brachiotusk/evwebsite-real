@@ -7,7 +7,7 @@
 </script>
 <Header/>
 <PageWrapper>
-    <h1 class="text-3xl font-semibold">CENTERSTAGE</h1>
+    <h1 class="text-3xl font-semibold">INTO THE DEEP</h1>
     <ExpandingHr --width=10em/>
 
     <h2 class="text-xl">Season Statistics</h2><br>
