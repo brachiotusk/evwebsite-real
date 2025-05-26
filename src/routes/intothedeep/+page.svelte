@@ -23,9 +23,9 @@
     <p>Our 2024-2025 INTO THE DEEP campaign went through two major robot builds, dozens of subsystem iterations, and many different minor tweaks and
      changes before becoming the robot you see today.</p><br>
     <h2 class="text-2xl font-semibold">Version 1</h2>
-    <img src="{base}/centerstage/csv1.jpg" class="max-h-[30em] mt-4" alt="The first iteration of the EV robot."><br>
+    <img src="{base}/itd1.jpg" class="max-h-[30em] mt-4" alt="The first iteration of the EV robot."><br>
     <p>Version 1</p>
     <h2 class="text-2xl font-semibold mt-4">Version 2</h2>
-    <img src="{base}/evcsrobo.png" class="max-h-[30em] mt-4" alt="The second iteration of the EV robot.">
+    <img src="{base}/itd2.jpg" class="max-h-[30em] mt-4" alt="The second iteration of the EV robot.">
     <p>Version 2 </p>
 </PageWrapper>
