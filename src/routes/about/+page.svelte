@@ -43,9 +43,9 @@
 
     <h2 class="text-xl font-bold">2024-2025 INTO THE DEEP</h2>
     <ul>
-        <li><span class="text-evyellow">Top 64</span> at FIRST World Championship</li>
+        <li><b span class="text-evyellow">Top 64</b> at FIRST World Championship</li>
         <br>
-        <li><span class="text-evyellow">World Championship Qualifier</span> at Washington State Championship</li>
+        <li><b span class="text-evyellow">World Championship Qualifier</b> at Washington State Championship</li>
         <li><span class="text-evorange">Dean's List Finalist (Kireeti Kompella)</span> at Washington State Championship</li>
         <li><span class="text-evyellow">Winning Alliance 1st Pick</span> at Washington State Championship</li>
         <li><span class="text-evorange">Think Award Winner</span> at Washington State Championship</li>
