@@ -44,14 +44,15 @@
     <h2 class="text-xl font-bold">2024-2025 INTO THE DEEP</h2>
     <ul>
         <li><span class="text-evyellow">Top 64</span> at FIRST World Championship</li>
+        <br>
         <li><span class="text-evyellow">World Championship Qualifier</span> at Washington State Championship</li>
         <li><span class="text-evorange">Dean's List Finalist (Kireeti Kompella)</span> at Washington State Championship</li>
-        <br>
         <li><span class="text-evyellow">Winning Alliance 1st Pick</span> at Washington State Championship</li>
         <li><span class="text-evorange">Think Award Winner</span> at Washington State Championship</li>
         <br>
         <li><b class="text-evyellow">Inspire Award 3rd Place</b> at Capek Semifinal</li>
         <li><b class="text-evorange">Winning Alliance 1st Pick</b> at Capek Semifinal</li>
+        <br>
         <li><b class="text-evorange">Inspire Award 1st Place</b> at Feynman Interleague</li>
         <li><span class="text-evorange">Winning Alliance Captain</span> at Feynman Interleague</li>
     </ul>
