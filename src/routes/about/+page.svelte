@@ -9,7 +9,7 @@
 <PageWrapper>
     <h1 class="text-3xl font-semibold">Meet the Team</h1>
     <ExpandingHr --width=10em/>
-    We are an 8 person FTC team from Bellevue, Washington. Here's everyone on the team!<br>
+    We are an 9 person FTC team from Bellevue, Washington. Here's everyone on the team!<br>
     <!-- make this section look prettier later -->
 
     <b class="mt-4 text-xl">Mechanical</b>
