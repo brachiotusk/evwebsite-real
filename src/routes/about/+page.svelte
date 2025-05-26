@@ -35,7 +35,7 @@
 
     <h1 class="text-3xl font-semibold mt-4">Upcoming Events</h1>
     <ExpandingHr --width=10em/>
-    <li> Catch us at <span class="text-evorange">League Meet 1 | Lamarr on Nov 2nd</span></li>
+    <li> Catch us at <span class="text-evorange">Stay Updated For More!</span></li>
 
 
     <h1 class="text-3xl font-semibold mt-4">Past Results</h1>
