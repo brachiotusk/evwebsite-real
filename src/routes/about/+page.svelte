@@ -14,7 +14,7 @@
 
     <b class="mt-4 text-xl">Mechanical</b>
     <ul>
-        <li>Allen, 11th Grade <i class="text-evyellow">(Captain, Lead)</i></li>
+        <li>Allen, 11th Grade </li>
         <li>Innaias, 12th Grade</li>
         <li>Erwin, 11th Grade</li>
         <li>Aaryan, 9th Grade</li>
@@ -23,7 +23,7 @@
 
     <b class="mt-4  text-xl">Programming</b>
     <ul>
-        <li>William, 12th Grade <i class="text-evorange">(Lead)</i></li>
+        <li>William, 12th Grade </li>
 
     </ul>
 
