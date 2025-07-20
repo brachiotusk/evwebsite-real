@@ -9,7 +9,7 @@
 <PageWrapper>
     <h1 class="text-3xl font-semibold">Meet the Team</h1>
     <ExpandingHr --width=10em/>
-    We are an 9 person FTC team from Bellevue, Washington. Here's everyone on the team!<br>
+    We are an 8 person FTC team from Bellevue, Washington. Here's everyone on the team!<br>
     <!-- make this section look prettier later -->
 
     <b class="mt-4 text-xl">Mechanical</b>
@@ -35,6 +35,9 @@
 
     <h1 class="text-3xl font-semibold mt-4">Upcoming Events</h1>
     <ExpandingHr --width=10em/>
+    <li><span class="text-evorange">8/2 - Catch us at SeaFair @ Genesee Park</span></li>
+    <li><span class="text-evorange">10/6 - We will be presenting @ Issaquah Salmon Days!</span></li>
+    <li><span class="text-evorange">9/3 - We will be @ The UN UNICEF Executive Board Meeting</span></li>
     <li><span class="text-evorange">Stay Updated For More!</span></li>
 
 
