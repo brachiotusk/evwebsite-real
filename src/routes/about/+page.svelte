@@ -14,23 +14,23 @@
 
     <b class="mt-4 text-xl">Mechanical</b>
     <ul>
-        <li>Allen, 10th Grade <i class="text-evyellow">(Captain, Lead)</i></li>
-        <li>Innaias, 11th Grade</li>
-        <li>Erwin, 10th Grade</li>
-        <li>Aaryan, 8th Grade</li>
-        <li>Shaurya, 7th Grade</li>
+        <li>Allen, 11th Grade <i class="text-evyellow">(Captain, Lead)</i></li>
+        <li>Innaias, 12th Grade</li>
+        <li>Erwin, 11th Grade</li>
+        <li>Aaryan, 9th Grade</li>
+        <li>Shaurya, 8th Grade</li>
     </ul>
 
     <b class="mt-4  text-xl">Programming</b>
     <ul>
-        <li>William, 11th Grade <i class="text-evorange">(Lead)</i></li>
-        <li>Michael, 10th Grade</li>
+        <li>William, 12th Grade <i class="text-evorange">(Lead)</i></li>
+
     </ul>
 
     <b class="mt-4 text-xl">Outreach</b>
     <ul>
-        <li>Vedika, 10th Grade</li>
-        <li>Kireeti, 10th Grade</li>
+        <li>Vedika, 11th Grade</li>
+        <li>Kireeti, 11th Grade</li>
     </ul>
 
     <h1 class="text-3xl font-semibold mt-4">Upcoming Events</h1>
