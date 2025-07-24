@@ -6,6 +6,7 @@
     import ContentBox from "../lib/common/ContentBox.svelte";
     import { base } from "$app/paths";
     import Header from "../lib/layout/Header.svelte";
+    import animateTyping from "../lib/common/animateTyping.svelte";
 
     let domLoaded = false;
     let firstUpdate = false;
@@ -47,9 +48,14 @@
         <div transition:fly={{x: 30, duration: 1000}}>
             <PageWrapper>
                 
-                <h1 class="text-2xl font-bold">Who We Are</h1>
+                <h1 class="text-2xl font-bold"We Are <span use:animateTyping={[
+    "Innovative",
+    "Always Learning",
+    "Adaptive",
+    "Student-Led"
+]} /></h1>
                 <hr class="border-black dark:border-white my-2 border-t-2 transition-width duration-1000 delay-[1s] {!firstUpdate? "w-0" : "w-[5em]"}">
-                We are 14343 Escape Velocity, an 8 person FIRST® Tech Challenge team from Bellevue, Washington.
+               
             
             </PageWrapper>
         </div>
