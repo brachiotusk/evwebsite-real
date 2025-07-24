@@ -6,7 +6,7 @@
     import ContentBox from "../lib/common/ContentBox.svelte";
     import { base } from "$app/paths";
     import Header from "../lib/layout/Header.svelte";
-    import animateTyping from "../lib/common/animateTyping.js";
+    import animateTyping from "../lib/common/animateTyping.ts";
 
     let domLoaded = false;
     let firstUpdate = false;
