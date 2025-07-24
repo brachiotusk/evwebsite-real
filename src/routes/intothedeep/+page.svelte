@@ -24,8 +24,11 @@
      changes before becoming the robot you see today.</p><br>
     <h2 class="text-2xl font-semibold">Version 1</h2>
     <img src="{base}/itd1.jpg" class="max-h-[30em] mt-4" alt="The first iteration of the EV robot."><br>
-    <p>Version 1</p>
+    <p>Version 1: Our original design, we working on v1 from the begining of the season and had lots of debate about creating v2. We utilized linkage driven pivoting slides for our outtake and a active claw design for our intake. 
+Over the season we iterated heavily over these 2 parts focused on both making optimizations in terms of speed and working to improve reliability. During the State Championships we revealed our Level 3 hang which utilized
+a PTO (Powered Take-Off) along with a final claw design</p>
     <h2 class="text-2xl font-semibold mt-4">Version 2</h2>
     <img src="{base}/itd2.jpg" class="max-h-[30em] mt-4" alt="The second iteration of the EV robot.">
-    <p>Version 2 </p>
+    <p>Version 2: Upon our qualification for the World Championships, we began debating about the future of our robot and eventually we decided to bring v2 also known as Senor Apple into this world. v2 was faster, lightweight and more accurate than v1. We maintained many of the same features that we had implemented onto v1 but instead created a better frame and robot to carry these components.
+However this resulted in some issues with getting our code working again and tuning the systems we had.  </p>
 </PageWrapper>
