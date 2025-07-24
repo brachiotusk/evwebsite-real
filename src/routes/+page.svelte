@@ -53,7 +53,7 @@
     "Always Learning",
     "Adaptive",
     "Student-Led"
-]} /></h1>
+]} /> Team</h1>
                 <hr class="border-black dark:border-white my-2 border-t-2 transition-width duration-1000 delay-[1s] {!firstUpdate? "w-0" : "w-[5em]"}">
                
             
