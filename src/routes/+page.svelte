@@ -6,7 +6,10 @@
     import ContentBox from "../lib/common/ContentBox.svelte";
     import { base } from "$app/paths";
     import Header from "../lib/layout/Header.svelte";
-    import animateTyping from "../lib/common/animateTyping.ts";
+ <script lang="ts">
+  import { animateTyping } from '$lib/common/animateTyping';
+  let words = ["Innovative","Adaptive","Student-Led"];
+</script>
 
     let domLoaded = false;
     let firstUpdate = false;
