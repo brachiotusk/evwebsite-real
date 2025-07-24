@@ -1,4 +1,4 @@
-export function animateTyping(node: HTMLElement, texts: string[]) {
+export default function animateTyping(node: HTMLElement, texts: string[]) {
 	let textsToType = texts;
 
 	let textsIndex = 0;
