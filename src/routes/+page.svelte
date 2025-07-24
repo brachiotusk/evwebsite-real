@@ -48,7 +48,7 @@
         <div transition:fly={{x: 30, duration: 1000}}>
             <PageWrapper>
                 
-                <h1 class="text-2xl font-bold">We Are <span use:animateTyping={[
+                <h1 class="text-4xl font-bold">We Are <span use:animateTyping={[
     "Innovative",
     "Always Learning",
     "Adaptive",
