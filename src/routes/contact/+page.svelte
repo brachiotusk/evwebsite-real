@@ -19,8 +19,7 @@
 </style>
 
 <PageWrapper>
-    <h1 class="text-3xl font-semibold"
-         class = "rainbow">
+    <h1 class = "rainbow">
         Contact Us!
     </h1>
     <ExpandingHr --width=10em/>
