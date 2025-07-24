@@ -6,8 +6,21 @@
 </script>
 <Header/>
 
+<style>
+  @keyframes rainbow {
+    0%   { filter: hue-rotate(0deg); }
+    100% { filter: hue-rotate(360deg); }
+  }
+
+  .rainbow {
+    display: inline-block;      /* needed for filter */
+    animation: rainbow 3s linear infinite;
+  }
+</style>
+
 <PageWrapper>
-    <h1 class="text-3xl font-semibold">
+    <h1 class="text-3xl font-semibold"
+         class = "rainbow">
         Contact Us!
     </h1>
     <ExpandingHr --width=10em/>
