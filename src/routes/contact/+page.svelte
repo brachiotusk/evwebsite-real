@@ -2,6 +2,7 @@
     import ExpandingHr from "../../lib/common/ExpandingHR.svelte";
     import Header from "../../lib/layout/Header.svelte";
     import PageWrapper from "../../lib/common/PageWrapper.svelte";
+    import animateTyping from "../lib/common/animateTyping";
 
 </script>
 <Header/>
