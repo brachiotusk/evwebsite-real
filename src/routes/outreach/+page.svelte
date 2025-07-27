@@ -13,4 +13,7 @@
       the globe to support disadvantaged kids. They have started 165+ Libraries across India, Nepal, Costa Rica and soon parts of Africa, along with this they have donated upwards of 45,000 books. We worked
       with Joy of Reading to start a library in Haryana, 2 years ago and have worked at multiple book sorting and collecting events across King County. This year, we are starting a library in Hyderabad, India,
       and helping to support the newly started computer lab at a school in Vijaywada, India. We will work with them to begin FIRST in the coming years. 
+
+    Our team also holds lot of local events across the King County system, we have held events across over Kent, Renton, Bellevue, Redmond, and the Lake Hills Librarys. We have inspired over 1200+ people from which
+around 120 have joined FIRST programs. 
 </PageWrapper>
