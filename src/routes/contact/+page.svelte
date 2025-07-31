@@ -20,12 +20,7 @@
 </style>
 
 <PageWrapper>
-    <h1 class = "text-4xl font-bold"><span use:animateTyping={[
-    "Contact Us!",
-    "Please Contact Us!",
-    "PLEAAAAAASE CONTACT US",
-    "We Humbly Request You Contact Us"
-]} />
+    <h1 class = "text-4xl font-bold"> Contact Us!
       
     </h1>
     <ExpandingHr --width=10em/>
