@@ -35,8 +35,7 @@
                 <div on:introstart={setLoaded} transition:fly={{x: -300, duration: 1000, easing: cubicOut }} class="mt-[10%] text-xl z-10 lg:max-w-md px-[1em]">
                     <h1 class="text-3xl font-bold">Escape Velocity Robotics</h1>
                     <hr class="border-black border-t-2 transition-width delay-[400ms] duration-1000 {firstUpdate ? "w-[6em]" :"w-0"} my-2">
-                    With a long-standing history of success, our team is always innovating, whether it is
-                    our unique Differential Swerve drive or our custom 3d-printed designs. Our mission is to bring everyone we can into the Digital Age through access to technology and promotion of STEM.
+                    With a long-standing history of success, our team is always innovating, whether its our unique codebase or crazy robot, we always work to bring our best to the competition and do our best for our community. Our Mission is to bring everyone we can into the Digital Age through access to technology and promotion of STEM.
                 </div>
                 <div>
                     <img src="{base}/evcsrobo.png" alt="The Escape Velocity CENTERSTAGE robot." class="max-h-[40em] -z-20 mx-auto lg:mx-0"/>
