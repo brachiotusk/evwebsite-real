@@ -17,14 +17,14 @@
 
         <li>Erwin, 11th Grade</li>
         <li>Aaryan, 9th Grade</li>
-        <li>Shaurya, 8th Grade</li>
+
     </ul>
 
     <b class="mt-4  text-xl">Programming</b>
     <ul>
         <li>Allen, 11th Grade </li>
         <li>Innaias, 12th Grade</li>
-
+        <li>Ted, 9th Grade</li>
     </ul>
 
     <b class="mt-4 text-xl">Outreach</b>
@@ -36,6 +36,7 @@
     <h1 class="text-3xl font-semibold mt-4">Upcoming Events</h1>
     <ExpandingHr --width=10em/>
     <li><span class="text-evorange">8/2 - Catch us at SeaFair @ Genesee Park</span></li>
+    <li><span class="text-evorange">8/13 - We will be meeting with U.S Congressman Adam Smith to propose STEM events and legislation in the district</span></li>
     <li><span class="text-evorange">9/3 - We will be @ The UN UNICEF Executive Board Meeting</span></li>
     <li><span class="text-evorange">10/6 - We will be presenting @ Issaquah Salmon Days!</span></li>
     <li><span class="text-evorange">Stay Updated For More!</span></li>
