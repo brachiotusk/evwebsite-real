@@ -2,22 +2,13 @@
     import ExpandingHr from "../../lib/common/ExpandingHR.svelte";
     import Header from "../../lib/layout/Header.svelte";
     import PageWrapper from "../../lib/common/PageWrapper.svelte";
-    import animateTyping from "../lib/common/animateTyping";
+
 
 </script>
 <Header/>
 
-<style>
-  @keyframes rainbow {
-    0%   { filter: hue-rotate(0deg); }
-    100% { filter: hue-rotate(360deg); }
-  }
 
-  .rainbow {
-    display: inline-block;      /* needed for filter */
-    animation: rainbow 3s linear infinite;
-  }
-</style>
+
 
 <PageWrapper>
     <h1 class = "text-4xl font-bold"> Contact Us!
