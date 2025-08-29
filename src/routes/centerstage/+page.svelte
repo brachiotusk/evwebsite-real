@@ -18,7 +18,7 @@
         <StatBox number=2 truncateDecimals=0 duration=3000 statisticName="<small>teams in the world with Differential Swerve</small>">One of</StatBox>
         <div class="md:hidden"><ExpandingHr --width=15em/></div>
         <div class="w-0 h-16 hidden md:block border-white border-l-[2px]"></div>
-        <StatBox number=4 truncateDecimals=0 duration=3000 statisticName="<small>Autonomous</small>">2+</StatBox>
+        <StatBox number=82 truncateDecimals=0 duration=3000 statisticName="<small>Autonomous</small>">Our</StatBox>
     </div><br>
     <p>Our 2023-2024 CENTERSTAGE campaign went through two major iterations, dozens of subsystem iterations, and many different minor tweaks and
      changes before becoming the robot you see today.</p><br>
