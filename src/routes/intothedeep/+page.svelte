@@ -28,4 +28,6 @@
     <h2 class="text-2xl font-semibold mt-4">Version 2</h2>
     <img src="{base}/itd2.jpg" class="max-h-[30em] mt-4" alt="The second iteration of the EV robot.">
     <p>Version 2: Upon our qualification for the World Championships, we began debating about the future of our robot and eventually we decided to bring V2 also known as Cosmic Crisp into this world. We decided to build V2 after experiencing many issues with our V1 robot, including the load on the pivot being too great for the linear slides, causing them to wear very quickly. Our power takeoff also suffered from reliability issues as the micro servos powering it literally started melting the plastic around it. Our V2 featured similar mechanisms to our V1, but with a much more robust linear rail for our pivot, and an active claw that could pick up from either the top or the side of the sample. However, with our limited time before worlds, the robot lacked testing and driver practice. Our autonomous was also absolutely chopped and we literally rewrote half of it the day before flying out to worlds. </p>
+    <p></p>
+    <ExpandingHr --width=10em/>
 </PageWrapper>
