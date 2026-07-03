@@ -38,7 +38,7 @@
                     With a long-standing history of success, our team is always innovating, whether its our unique codebase or crazy robot, we always work to bring our best to the competition and do our best for our community. Our Mission is to bring everyone we can into the Digital Age through access to technology and promotion of STEM.
                 </div>
                 <div>
-                    <img src="{base}/evcsrobo.png" alt="The Escape Velocity CENTERSTAGE robot." class="max-h-[40em] -z-20 mx-auto lg:mx-0"/>
+                    <img src="{base}/evdcrobo.png" alt="The Escape Velocity BIG MISTAKE." class="max-h-[40em] -z-20 mx-auto lg:mx-0"/>
                     <!-- <div transition:fly={{x: -300, duration: 1000, easing: cubicOut }} class="absolute top-0 left-0 w-[100%] h-full" style="background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), transparent);"></div> -->
                 </div>
             </div>
